@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff867a64-62a9-4036-b434-fce7b31e9dbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS4-Objects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RikkeiAcademy/BT1_QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RikkeiAcademy/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RikkeiAcademy/TH1_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RikkeiAcademy/BT2_StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RikkeiAcademy/BT3_Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +48,35 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BT1_QuadraticEquation">
+  <component name="RunManager" selected="Application.BT3_Fan">
     <configuration name="BT1_QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RikkeiAcademy.BT1_QuadraticEquation" />
+      <module name="MD3-SS4-Objects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RikkeiAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT2_StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RikkeiAcademy.BT2_StopWatch" />
+      <module name="MD3-SS4-Objects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RikkeiAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT3_Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RikkeiAcademy.BT3_Fan" />
       <module name="MD3-SS4-Objects" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT3_Fan" />
+        <item itemvalue="Application.BT2_StopWatch" />
         <item itemvalue="Application.BT1_QuadraticEquation" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.TH1_Rectangle" />
@@ -111,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677813758626</updated>
-      <workItem from="1677813759819" duration="4057000" />
+      <workItem from="1677813759819" duration="5833000" />
     </task>
     <servers />
   </component>
